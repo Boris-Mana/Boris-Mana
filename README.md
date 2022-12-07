@@ -28,7 +28,7 @@ HTML, CSS, адаптивная верстка, файловая структу�
 
 #
 ### Мои контакты
-email: omanaeva@yandex.ru
+email: boris.m.manaev@yandex.ru
 
 <!--
 **Boris-Mana/Boris-Mana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
